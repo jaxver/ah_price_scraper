@@ -1,4 +1,6 @@
 meal_planning/*
 !meal_planning/Ingredients_sample.xlsx
+!meal_planning/meals_ingredients_sample.xlsx
+!meal_planning/meals_sample.xlsx
 Supermarket.code-workspace
 ah_previous.json
